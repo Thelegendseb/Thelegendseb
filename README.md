@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning fullstack development across all languages.
 - 💞️ I'm just here for the ride! 
 - 📫 How to reach me:
-- Email: Sebclarke1@outlook.com
+- Email: sebclarke1@outlook.com
 
