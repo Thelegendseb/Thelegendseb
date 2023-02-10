@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Nexus Flow](https://github.com/Thelegendseb/NexusFlow)
+<a align="center">- 🔭 I’m currently working on [Nexus Flow](https://github.com/Thelegendseb/NexusFlow)</a>
 
 - 🌱 I’m currently learning **JS** and **C++**
 
