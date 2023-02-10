@@ -3,13 +3,13 @@
 
 ---
 
-<a align="center">- 🔭 I’m currently working on [Nexus Flow](https://github.com/Thelegendseb/NexusFlow)</a>
+- 🔭 I’m currently working on [Nexus Flow](https://github.com/Thelegendseb/NexusFlow)
 
 - 🌱 I’m currently learning **JS** and **C++**
 
 <div align="left">
 
-<div align="center">
+<div align="left">
 <img height=200 src=https://github-readme-stats.vercel.app/api?username=Thelegendseb&show_icons=true&theme=dark alt="Sebastian's Github stats"/>
 </div>
   
