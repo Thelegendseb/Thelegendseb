@@ -5,5 +5,4 @@
 - 📫 How to reach me:
 - Email: sebclarke1@outlook.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelegendseb)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelegendseb&show_icons=true&theme=dark)]
