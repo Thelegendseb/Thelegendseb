@@ -10,7 +10,7 @@
 <div align="left">
 
 <div align="left">
-<img height=200 src=https://github-readme-stats.vercel.app/api?username=Thelegendseb&show_icons=true&theme=dark alt="Sebastian's Github stats"/>
+<img height=200 src=https://github-readme-stats.vercel.app/api?username=Thelegendseb&show_icons=true&theme=dark alt="My Github stats"/>
 </div>
   
 <h3 align="left">Languages and Tools:</h3>
