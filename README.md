@@ -22,9 +22,7 @@
   
 </p>
   
-<h3 align="left">Contact:</h3>
-
-<div align="right">
+<h3 align="left" href="mailto:sebclarke1@outlook.com">Contact Me (Email)</h3>
 
 [![Github](https://img.shields.io/github/followers/Thelegendseb?label=Follow&style=social)](https://github.com/Thelegendseb)
 </div>
