@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Nexus Flow](https://github.com/Thelegendseb/NexusFlow) and **Web Development** 
 
 - 🌱 I’m currently learning **JS** and **C++**
-- 
+
 <div align="left">
 
 <div align="center">
