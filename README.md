@@ -10,7 +10,7 @@
 <div align="left">
 
 <div align="left">
-<img height=200 src=https://github-readme-stats.vercel.app/api?username=Thelegendseb&hide_title=true&show_icons=true&theme=transparent/>
+<img height=200 src=https://github-readme-stats.vercel.app/api?username=Thelegendseb&theme=transparent&hide_title=true&show_icons=true/>
 </div>
   
 <h3 align="left">Languages and Tools:</h3>
