@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on Nexus Flow
+- 🔭 I’m currently working on **Nexus Flow**
 
 - 🌱 I’m currently learning **JS** and **C++**
 
