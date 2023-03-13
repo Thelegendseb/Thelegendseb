@@ -3,10 +3,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Nexus Flow**
-
-- 🌱 I’m currently learning **JS** and **C++**
-
 <div align="left">
 
 <div align="left">
