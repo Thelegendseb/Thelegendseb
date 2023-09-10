@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">I'm a A-Level student studying Computer Science</h3>
+<h3 align="center">I'm a student at University of Newcastle studying Computer Science (Software Engineering)</h3>
 
 ---
 
