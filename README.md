@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
+# Hi 👋, I'm Sebastian
 
 # 👤 About Me:
 🏫 I’m currently studying Computer Science at Newcastle University 💻<br>📖 I’m interested in Neuroscience and BCI Technology 🧬<br>👯 I’m looking to collaborate on a NeuroTech project 🧠<br>🤝 I’m looking for help with classification AI  🤖<br>
