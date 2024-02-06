@@ -14,5 +14,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theLegendSeb&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theLegendSeb&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![Github](https://img.shields.io/github/followers/Thelegendseb?label=Follow&style=social)](https://github.com/Thelegendseb)
